@@ -1,3 +1,4 @@
+TEST 1
 # 🐍 Snake Game with React
 
 Welcome to the **Snake Game** project! This is a modern twist on the classic snake game, built using React JS. It's simple, fun, and has some cool customizations. You can start playing right away by clicking [here](https://eulogioqt.github.io/snake-game).
